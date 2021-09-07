@@ -1,2 +1,2 @@
 # clocker
-Projeto simples de uma agenda com JavaScript e React, ensinado pelo prof. Bruno Bertolini ( CodarMe ).
+Projeto simples de uma agenda com JavaScript e React, ensinado pelo prof. Bruno Bertolini, do curso CodarMe.
